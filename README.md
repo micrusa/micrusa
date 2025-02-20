@@ -1,5 +1,4 @@
 ## Hi there 👋
-* 👂 My name is Miguel
 * 🔭 I’m currently working on [TradesPad](https://tradespad.com/)
 * ❤️ I love Spring Boot, Kotlin and Flutter
 * 💡 My main projects: [SocialPump](https://socialpump.app/), [TradesPad](https://tradespad.com)
