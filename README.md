@@ -1,5 +1,6 @@
 ## Hi there 👋
 * 🔭 I’m currently working on [TradesPad](https://tradespad.com/)
+* 🎓 Studying Software Engineering at University of Seville
 * ❤️ I love Spring Boot, Kotlin and Flutter
 * 💡 My main projects: [SocialPump](https://socialpump.app/), [TradesPad](https://tradespad.com)
 * 📫 How to reach me:
@@ -9,7 +10,8 @@
 ### 📈 Check out my stats
 <details>
   <summary>🕒 WakaTime</summary>
-  <a href="http://wakatime.com/@micrusa"><img src="https://wakatime.com/share/@micrusa/0ec23791-112f-468e-ae39-bb2220fe47a5.png" /></a>
+  <p>Click <a href="https://wakatime.com/@micrusa">here</a> to open my profile</p>
+  <a href="https://wakatime.com/@micrusa"><img src="https://wakatime.com/share/@micrusa/0ec23791-112f-468e-ae39-bb2220fe47a5.png" /></a>
 </details>
 <details>
   <summary>:zap: GitHub Profile</summary>
