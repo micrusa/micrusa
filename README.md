@@ -18,6 +18,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=micrusa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs&show=prs_merged" />
 </details>
 
+![](https://komarev.com/ghpvc/?username=micrusa&style=for-the-badge)
+
 ### 🛠️ I have used and learnt
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
