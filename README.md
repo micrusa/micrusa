@@ -1,8 +1,5 @@
 ## Hi there 👋
-* 🔭 I’m currently working on [TradesPad](https://tradespad.com/)
-* 🎓 Studying Software Engineering at University of Seville
-* ❤️ I love Distributed Systems Architecture & Performance Optimization
-* 💡 My main projects: [SocialPump](https://socialpump.app/), [TradesPad](https://tradespad.com)
+* ☁️ I love Distributed Systems and Cloud
 * 📫 How to reach me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://telegram.me/micrusa)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/micrusa/)
