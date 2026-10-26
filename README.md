@@ -1,5 +1,6 @@
 ## Hi there 👋
-* ☁️ I love Distributed Systems and Cloud
+* 💼 Working on ISA Research Group. Technical founder of [Tradespad](https://tradespad.com).
+* ☁️ I love Infrastructure, Cloud & Distributed Systems.
 * 📫 How to reach me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://telegram.me/micrusa)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/micrusa/)
